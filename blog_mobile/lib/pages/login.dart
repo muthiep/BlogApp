@@ -100,7 +100,7 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 Center(
                   child: Image.network(
-                    'https://images.unsplash.com/photo-1516321318423-f06f85e504b3',
+                    'https://images.unsplash.com/vector-1761385079498-69fa4adce7dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9naW58ZW58MHx8MHx8fDA%3D',
                     height: 220,
                     width: 220,
                     fit: BoxFit.contain,
